@@ -1,0 +1,17 @@
+create layer first
+create layer second
+current first
+load newKoala.png
+current second
+load testKoala.jpeg
+blur
+blur
+sharpen
+sharpen
+greyscale
+invisible second
+current first
+sepia
+blur
+blur
+saveAll twoKoalas.txt

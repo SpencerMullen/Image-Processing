@@ -1,0 +1,11 @@
+loadLayered twoKoalas.txt
+current Layer1
+visible Layer1
+save testKoalaCopy.jpeg
+remove
+create layer newSecond
+current newSecond
+load testKoala.jpeg
+invisible newSecond
+current Layer0
+save newKoalaCopy.png
