@@ -1,4 +1,4 @@
-# Assignment 5 - 7: Image Processing
+# Image Processing
 ### Michael Ford and Spencer Mullen
 
 ####Script Commands Explanation:
