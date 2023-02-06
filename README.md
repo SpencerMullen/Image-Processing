@@ -1,5 +1,4 @@
 # Image Processing
-### Michael Ford and Spencer Mullen
 
 ####Script Commands Explanation:
 
