@@ -1,6 +1,6 @@
 # Image Processing
 
-####Script Commands Explanation:
+#### Script Commands Explanation:
 
 Note that error handling has not been programmed to display a message, then continue waiting for
 input due to the lack of a view. If a command is malformed, either in a premade script or the manual
@@ -75,7 +75,7 @@ user input, the program will simply throw an error and stop running.
   current layer.
   - ex: create layer dog \n invisible dog
 
-####Graphical User Interface
+#### Graphical User Interface
 
 * The commands for the graphical user interface work exactly like those of the text view. If there
 are any commands that require a text input, a pop-up dialog will appear after you have selected the
@@ -86,3 +86,5 @@ correct command from the menu in the graphical user interface.
 This is because we felt there were many drastic changes that would not align with the old one. For example,
 we needed to add methods that converted BufferedImages to an array of bytes to be able to display the images
 using a JLabel.
+
+![Alt text](https://github.com/SpencerMullen/Image-Processing/blob/main/GUIScreenshot.PNG?raw=true)
