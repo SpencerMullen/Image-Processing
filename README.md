@@ -80,11 +80,11 @@ user input, the program will simply throw an error and stop running.
 * The commands for the graphical user interface work exactly like those of the text view. If there
 are any commands that require a text input, a pop-up dialog will appear after you have selected the
 correct command from the menu in the graphical user interface.
+
 - ex: edit --> create --> pop-up dialog box asking for a layer name appears
 
 * The graphical user interface has a different controller and view from the original simple text version.
-This is because we felt there were many drastic changes that would not align with the old one. For example,
-we needed to add methods that converted BufferedImages to an array of bytes to be able to display the images
+This is because there were many drastic changes that would not align with the old one. For example, needed to add methods that converted BufferedImages to an array of bytes to be able to display the images
 using a JLabel.
 
 ![Alt text](https://github.com/SpencerMullen/Image-Processing/blob/main/GUIScreenshot.PNG?raw=true)
