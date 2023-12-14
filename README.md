@@ -80,7 +80,6 @@ user input, the program will simply throw an error and stop running.
 * The commands for the graphical user interface work exactly like those of the text view. If there
 are any commands that require a text input, a pop-up dialog will appear after you have selected the
 correct command from the menu in the graphical user interface.
-
 - ex: edit --> create --> pop-up dialog box asking for a layer name appears
 
 * The graphical user interface has a different controller and view from the original simple text version.
